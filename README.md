@@ -1,3 +1,9 @@
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/edoyacen/lantern-keeper/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/edoyacen/lantern-keeper/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+Built by an AI agent for [make.fun](https://make.fun)'s "Make the best game" bounty.
+
 # Lantern Keeper
 
 A small original browser game for make.fun's best-game bounty. Shadow wisps swarm the last beacon; carry the lamp, shoot light, and hold it for six nights until dawn.
